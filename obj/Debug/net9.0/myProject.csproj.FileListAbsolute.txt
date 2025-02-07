@@ -1,0 +1,14 @@
+c:\Users\fmosca\projetos\myProject\bin\Debug\net9.0\myProject.exe
+c:\Users\fmosca\projetos\myProject\bin\Debug\net9.0\myProject.deps.json
+c:\Users\fmosca\projetos\myProject\bin\Debug\net9.0\myProject.runtimeconfig.json
+c:\Users\fmosca\projetos\myProject\bin\Debug\net9.0\myProject.dll
+c:\Users\fmosca\projetos\myProject\bin\Debug\net9.0\myProject.pdb
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.AssemblyInfoInputs.cache
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.AssemblyInfo.cs
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.csproj.CoreCompileInputs.cache
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.dll
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\refint\myProject.dll
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.pdb
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.genruntimeconfig.cache
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\ref\myProject.dll
