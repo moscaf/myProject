@@ -12,3 +12,4 @@ c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\refint\myProject.dll
 c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.pdb
 c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.genruntimeconfig.cache
 c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\ref\myProject.dll
+c:\Users\fmosca\projetos\myProject\obj\Debug\net9.0\myProject.sourcelink.json

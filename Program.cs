@@ -1,11 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Data;
-using Teste;
+using myProject;
 
-Cliente cliente = new Cliente();
+GerenciarCliente cliente = new GerenciarCliente();
 bool executando = true;
 
-while(executando){
+while(executando)
+{
     Console.Clear();
     Console.WriteLine("\n --- Menu --- \n");
     Console.WriteLine("1 - Cadastrar Cliente");
@@ -14,7 +15,8 @@ while(executando){
     Console.Write("Selecionar Opção: ");
     var option = int.Parse(Console.ReadLine());
 
-    switch(option){
+    switch(option)
+    {
         case 1:
         cliente.CadastrarCliente();
         break;
